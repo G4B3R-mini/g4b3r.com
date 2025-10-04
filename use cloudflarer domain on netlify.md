@@ -6,3 +6,9 @@
 - restante deixa como esta
 - click em save promto
 ## passo dois: configurar o `www.domain.com` para redirecionar para o dominio
+- campo Name `www`
+- obs: selecione o tipo `CNAME`
+- campo Target `domain.netlify.app`
+- no campo Proxy status `disable`
+- restante deixa como esta
+- click em save promto
