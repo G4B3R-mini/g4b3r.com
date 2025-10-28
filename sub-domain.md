@@ -7,8 +7,8 @@ No site do Cloudflare:
 3. Clique em **Add records**
 4. Preencha os campos:
    - **Tipo**: CNAME
-   - **Name**: subdomain.
+   - **Name**: subdomain
    - **Target**: ex: www.example.com
    - **Proxy**: Disabled
 
-> **OBS**: Não esqueça do ponto no campo nome, so escolher o nome do subdomain e correr para o abraço 
+> **OBS**:  so escolher o nome do subdomain e correr para o abraço, campo name somente o nome do subdomain, nada mais
